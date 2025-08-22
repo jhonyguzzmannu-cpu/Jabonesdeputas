@@ -69,7 +69,7 @@ body {
 
 .hero-title,
 .hero-subtitle {
-  color: rgb(133, 117, 93);
+  color: rgb(0, 0, 0);
 }
 
 .hero-title {
@@ -415,6 +415,5 @@ header {
 
 }
 }
-
 }
 
